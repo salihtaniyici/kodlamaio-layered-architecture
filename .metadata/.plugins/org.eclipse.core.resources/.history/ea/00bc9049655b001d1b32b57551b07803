@@ -1,0 +1,5 @@
+package kodlamaio.logging;
+
+public class DatabaseLogger {
+
+}

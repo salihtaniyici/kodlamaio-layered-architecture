@@ -1,0 +1,11 @@
+package kodlamaio.entities;
+
+public class Instructor {
+	private int instructorId;
+	private String firstName;
+	private String lastNamme;
+	public Course[] courses;
+	
+	
+
+}

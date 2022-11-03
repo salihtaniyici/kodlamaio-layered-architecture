@@ -1,0 +1,31 @@
+package kodlamaio.business;
+
+import kodlamaio.dataAccess.CourseDao;
+import kodlamaio.entities.Course;
+import kodlamaio.logging.Logger;
+
+public class CourseManager {
+	private CourseDao courseDao;
+	private Logger loggers;
+	private Course[] courses;
+	
+	public CourseManager(CourseDao courseDao, Logger loggers, Course[] courses) {
+		
+		this.courseDao = courseDao;
+		this.loggers = loggers;
+		this.courses = courses;
+	}
+	
+	public void add(Course course) throws Exception{
+		for(Course coursen : courses) {
+			if(coursen.getCourseTitle() == course.getCourseTitle()) {
+				throw new Exception("Course name has already been exist");
+			}
+		}
+	}
+	
+	
+	
+	
+
+}

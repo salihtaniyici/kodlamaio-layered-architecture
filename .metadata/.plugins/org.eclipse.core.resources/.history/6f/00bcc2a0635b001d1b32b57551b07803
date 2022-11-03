@@ -1,0 +1,14 @@
+package kodlamaio;
+
+import kodlamaio.entities.Category;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Category category01 = new Category(1,"Programming");
+		
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package kodlamaio.business;
+
+import kodlamaio.dataAccess.CategoryDao;
+import kodlamaio.entities.Category;
+import kodlamaio.logging.Logger;
+
+public class CategoryManager {
+	private CategoryDao categoryDao;
+	private Logger[] loggers;
+	
+	public CategoryManager(CategoryDao categoryDao, Logger[] loggers) {
+		
+		this.categoryDao = categoryDao;
+		this.loggers = loggers;
+	}
+	
+	public void add(Category category) throws Exception {
+		
+		// ....
+		
+	}
+	
+
+}

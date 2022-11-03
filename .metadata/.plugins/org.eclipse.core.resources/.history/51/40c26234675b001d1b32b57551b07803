@@ -1,0 +1,5 @@
+package kodlamaio.dataAccess;
+
+public class HibernateInstructorDao {
+
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Locale.Category"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="kodlamaio.business.CategoryManager"/>
+    <fullyQualifiedTypeName name="kodlamaio.dataAccess.HibernateCategoryDao"/>
+    <fullyQualifiedTypeName name="kodlamaio.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="kodlamaio.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="kodlamaio.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="kodlamaio.business.CourseManager"/>
+    <fullyQualifiedTypeName name="kodlamaio.dataAccess.JdbcCourseDao"/>
+    <fullyQualifiedTypeName name="kodlamaio.business.InstructorManager"/>
+    <fullyQualifiedTypeName name="kodlamaio.dataAccess.HibernateInstructorDao"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="kodlamaio.dataAccess.CategoryDao"/>
+    <fullyQualifiedTypeName name="kodlamaio.entities.Category"/>
+    <fullyQualifiedTypeName name="kodlamaio.dataAccess.CourseDao"/>
+    <fullyQualifiedTypeName name="kodlamaio.entities.Course"/>
+    <fullyQualifiedTypeName name="javax.swing.tree.ExpandVetoException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="kodlamaio.dataAccess.InstructorDao"/>
+    <fullyQualifiedTypeName name="kodlamaio.entities.Instructor"/>
+    <fullyQualifiedTypeName name="kodlamaio.logging.Logger"/>
+</qualifiedTypeNameHistroy>

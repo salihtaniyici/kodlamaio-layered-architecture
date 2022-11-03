@@ -1,0 +1,10 @@
+package kodlamaio.business;
+
+import kodlamaio.dataAccess.CategoryDao;
+import kodlamaio.logging.Logger;
+
+public class CategoryManager {
+	private CategoryDao categoryDao;
+	private Logger[] loggers;
+
+}

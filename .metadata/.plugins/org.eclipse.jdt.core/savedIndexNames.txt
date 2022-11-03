@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Salih\Desktop\kodlamaio-layeredarchitecture\.metadata\.plugins\org.eclipse.jdt.core
+402171620.index
+3668539418.index
+1865797976.index

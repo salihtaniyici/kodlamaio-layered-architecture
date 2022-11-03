@@ -1,0 +1,20 @@
+package kodlamaio;
+
+import kodlamaio.entities.Category;
+import kodlamaio.entities.Course;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Category category01 = new Category(1,"All");
+		Category category02 = new Category(2,"Programming");
+		
+		Course course01 = new Course(1,"Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)","Ücretsiz ve profesyonel bir programla, sıfırdan yazılım geliştirme öğreniyoruz.","Engin Demiroğ","149","2 Ay ","Junior");
+				
+		
+
+	}
+
+}
